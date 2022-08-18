@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ola mundo</string>
+    <string name="app_name">Questão</string>
     <string name="botao_ok">Informe seu nome</string>
     <string name="entre_com_seu_nome">Entre com seu nome</string>
 </resources>
